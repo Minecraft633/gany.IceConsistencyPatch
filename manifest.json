@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
 	"filename": "NewHorizonsConfig.dll",
-	"author": "[your name]",
-	"name": "[your readable mod name]",
-	"uniqueName": "[your name].[your unique mod ID]",
+	"author": "Ganymede2076",
+	"name": "Ice Consistency Patch",
+	"uniqueName": "gany.IceConsistencyPatch",
 	"version": "0.0.0",
 	"owmlVersion": "2.15.1",
 	"dependencies": [ "xen.NewHorizons" ]
